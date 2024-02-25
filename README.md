@@ -1,4 +1,9 @@
-### Hi there 👋
+### I'm Ben, an SF-based developer & marketer 📚🤗
+- observed high school classes in 15 states on leave from Princeton
+- solo building [the playbook](https://fix.school) for changing school
+- shipping [cute](https://loveisblob.com) and [practical](https://github.com/benguz/prompt-octopus) side projects
+- Fluent in Python, React, Figma, Tailwind, and more
+- Reach out! guzovsky@princeton.edu 📫 
 
 <!--
 **benguz/benguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
