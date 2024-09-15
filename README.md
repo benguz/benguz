@@ -1,9 +1,10 @@
 ### I'm Ben, an SF-based developer & marketer 📚🤗
+- founding product engineer at [safetykit](safetykit.com)
 - observed high school classes in 15 states on leave from Princeton
 - solo building [the playbook](https://fix.school) for changing school
 - shipping [cute](https://loveisblob.com) and [practical](https://github.com/benguz/prompt-octopus) side projects
-- Fluent in Python, React, Figma, Tailwind, and more
-- Reach out! guzovsky@princeton.edu 📫 
+- working on a chess engine in my spare time
+- Reach out! benjamin.guzovsky@gmail.com 📫 
 
 <!--
 **benguz/benguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
