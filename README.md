@@ -1,4 +1,4 @@
-### I'm Ben, an SF-based developer & marketer 📚🤗
+### I'm Ben, an SF-based developer 📚🤗
 - founding product engineer at [safetykit](safetykit.com)
 - observed high school classes in 15 states on leave from Princeton
 - solo building [the playbook](https://fix.school) for changing school
