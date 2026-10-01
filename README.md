@@ -1,8 +1,8 @@
-### I'm Ben, an SF-based developer 📚🤗
-- founding product engineer at [safetykit](safetykit.com)
+### I'm Ben, an SF-based technologist & education researcher 📚🤗
+- founder of [Doorstop Education](doorstopeducation.org), a nonprofit helping students change school
+- former founding product engineer at [safetykit](safetykit.com) (YC S23)
 - observed high school classes in 15 states on leave from Princeton
-- solo building [the playbook](https://fix.school) for changing school
-- shipping [cute](https://loveisblob.com) and [practical](https://github.com/benguz/prompt-octopus) side projects
+- shipping [cute](https://loveisblob.com) and [impractical](https://dumbtrading.com) side projects
 - working on a chess engine in my spare time
 - Reach out! benjamin.guzovsky@gmail.com 📫 
 
